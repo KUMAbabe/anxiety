@@ -1689,7 +1689,9 @@ bb({body:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 3;
 ```
 
+
 b: 으아아아 우린 다 죽을 거야 으아아아아아아
+
 
 ```
 hong({body:"3_defeated1"});
